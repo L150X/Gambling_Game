@@ -103,10 +103,6 @@ fn wait_for_enter(){
 
 /// Main Function
 fn main() {
-                thread::sleep(Duration::from_millis(1500)); // Wait 1.5s before exiting
-                thread::sleep(Duration::from_millis(1500)); // Wait 1.5s before exiting
-                thread::sleep(Duration::from_millis(1500)); // Wait 1.5s before exiting
-                thread::sleep(Duration::from_millis(1500)); // Wait 1.5s before exiting
     // Variable to store money, in a i32
     let mut money: i32 = 1000;
 
